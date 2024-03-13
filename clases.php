@@ -16,3 +16,4 @@ class Perro extends Animal{
 
 }
 
+$perro = new Perro(2);
